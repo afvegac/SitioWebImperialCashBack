@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b282ac90-4324-4d51-af55-cec01099cfd0": {
+      "ProjectGuid": "b282ac90-4324-4d51-af55-cec01099cfd0",
+      "DisplayName": "CapaAccesoDatos",
+      "ColorIndex": 0
+    },
+    "038230aa-51ba-422d-a61a-a88d7efdcb32": {
+      "ProjectGuid": "038230aa-51ba-422d-a61a-a88d7efdcb32",
+      "DisplayName": "CapaPresentacion",
+      "ColorIndex": 1
+    },
+    "98bc8dea-6273-4f21-a728-8321cb4787bc": {
+      "ProjectGuid": "98bc8dea-6273-4f21-a728-8321cb4787bc",
+      "DisplayName": "CapaEntidades",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
